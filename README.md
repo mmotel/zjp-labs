@@ -1,4 +1,4 @@
-#ZJPlabs
+#`ZJPlabs`
 Zaawansowane języki programowania - laboratoria
 
 1. lab1 - [wstęp do C](https://github.com/mmotel/ZJPlabs/tree/master/lab1)
