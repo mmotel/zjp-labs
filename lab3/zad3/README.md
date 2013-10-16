@@ -1,4 +1,4 @@
-#lab3
+#[lab3](https://github.com/mmotel/zjp-labs/tree/master/lab3)
 
 ###Zadanie 3
 Pamiętasz program liczący sumę za pomocą fork? Teraz spróbuj to zrobić za pomocą `MPI`
