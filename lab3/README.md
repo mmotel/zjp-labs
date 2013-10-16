@@ -1,10 +1,10 @@
 #lab3
 
-###Zadanie 2
+###[Zadanie 2](https://github.com/mmotel/zjp-labs/tree/master/lab3/zad2)
 
 Napisz program, który prześle liczbę całkowitą z `procesu 1` do `procesu 0`, `proces 0` ma ją wyświetlić.
 
-###Zadanie 3
+###[Zadanie 3](https://github.com/mmotel/zjp-labs/tree/master/lab3/zad2)
 
 Pamiętasz program liczący sumę za pomocą fork? Teraz spróbuj to zrobić za pomocą `MPI`
 
@@ -13,7 +13,7 @@ Pamiętasz program liczący sumę za pomocą fork? Teraz spróbuj to zrobić za 
 * Na początek nie musisz dodawać przesyłania danych za pomocą `MPI`. Zobacz czy po prostu to zadziała.
 * Kolejnym krokiem jest zebranie wyników cząstkowych za pomocą `MPI_Send` i `MPI_Recv`. Zobacz czy to działa. Proponuję zadawać pytania. 
 
-###Zadanie 4
+###[Zadanie 4](https://github.com/mmotel/zjp-labs/tree/master/lab3/zad2)
 
 Napisz program, który prześle żeton przez wszystkie procesy, to znaczy:
 
