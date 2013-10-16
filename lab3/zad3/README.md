@@ -1,7 +1,6 @@
 #lab3
 
 ###Zadanie 3
-
 Pamiętasz program liczący sumę za pomocą fork? Teraz spróbuj to zrobić za pomocą `MPI`
 
 * Na początek - pomiar czasu, aby miał sens, powinien znajdować się jak najbliżej faktycznych obliczeń. Zapytaj prowadzącego czy twoje rozwiązanie jest dobre jeśli nie jesteś absolutnie pewien że jest OK.

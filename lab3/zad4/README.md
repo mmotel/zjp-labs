@@ -1,7 +1,6 @@
 #lab3
 
 ###Zadanie 4
-
 Napisz program, który prześle żeton przez wszystkie procesy, to znaczy:
 
  1. `Jednostka 0` wczytuje liczbę całkowitą, wysyła ją do `jednostki 1`,
