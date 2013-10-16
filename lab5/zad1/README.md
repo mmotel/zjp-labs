@@ -1,6 +1,6 @@
 #[lab5](https://github.com/mmotel/zjp-labs/tree/mastera/lab5)
 
-###[Zadanie 1]
+###Zadanie 1
 
 Zadanie na ćwiczenia to napisać program który:
 
