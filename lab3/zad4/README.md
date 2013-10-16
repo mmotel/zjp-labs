@@ -1,4 +1,4 @@
-#lab3
+#[lab3](https://github.com/mmotel/zjp-labs/tree/master/lab3)
 
 ###Zadanie 4
 Napisz program, który prześle żeton przez wszystkie procesy, to znaczy:
