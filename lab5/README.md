@@ -1,6 +1,6 @@
 #lab5
 
-###[test](https://github.com/mmotel/zjp-labs/tree/master/lab4/zad2)
+###[test](https://github.com/mmotel/zjp-labs/tree/master/lab5/test)
 
 Prosty test `MPI_Scatter-a` oraz `MPI_Gather-a`.
 
