@@ -1,6 +1,6 @@
 #[lab4](https://github.com/mmotel/zjp-labs/tree/master/lab4/zad1)
 
-###[Zadanie 2]: Rozsyłanie danych do wszystkich
+###Zadanie 2: Rozsyłanie danych do wszystkich
 `MPI_Bcast` służy do rozsyłania danych do wszystkich procesów.
 
 Wykorzystajmy to do rozesłania wektora, który wygenerujemy tylko na `procesie 0`. Powinno się udać tak przerobić nasz program, aby było:
