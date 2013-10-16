@@ -1,4 +1,4 @@
-#lab4
+#[lab4](https://github.com/mmotel/zjp-labs/tree/master/lab4/zad1)
 
 ###[Zadanie 2](https://github.com/mmotel/zjp-labs/tree/master/lab4/zad2): Rozsyłanie danych do wszystkich
 `MPI_Bcast` służy do rozsyłania danych do wszystkich procesów.
